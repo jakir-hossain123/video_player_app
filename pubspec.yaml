@@ -37,7 +37,8 @@ dependencies:
   video_player: ^2.10.1
   permission_handler: ^12.0.1
   path_provider: ^2.1.5
-  wakelock: ^0.6.2
+  wakelock_plus: ^1.4.0
+
 
 dev_dependencies:
   flutter_test:
